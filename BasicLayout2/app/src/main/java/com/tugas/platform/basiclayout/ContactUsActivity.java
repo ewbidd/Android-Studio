@@ -1,5 +1,7 @@
 package com.tugas.platform.basiclayout;
 
+import static com.tugas.platform.basiclayout.R.layout.activity_contact_us;
+
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.net.Uri;
@@ -24,7 +26,7 @@ public class ContactUsActivity extends AppCompatActivity implements View.OnClick
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_contact_us);
+        setContentView(activity_contact_us);
 
         btnBack = findViewById(R.id.btnBack);
 
