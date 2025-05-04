@@ -1,15 +1,15 @@
 package com.tugas.platform.modulempat;
 
 public class ModelMahasiswa {
-    private int img;
+    private int mImg;
     private String nama, nim;
 
-    public int getImg() {
-        return img;
+    public int getmImg() {
+        return mImg;
     }
 
-    public void setImg(int img) {
-        this.img = img;
+    public void setmImg(int mImg) {
+        this.mImg = mImg;
     }
 
     public String getNama() {
@@ -29,7 +29,7 @@ public class ModelMahasiswa {
     }
 
     public ModelMahasiswa(int img, String nama, String nim) {
-        this.img = img;
+        this.mImg = img;
         this.nama = nama;
         this.nim = nim;
     }

@@ -12,7 +12,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class CustomAdapter extends ArrayAdapter<ModelMahasiswa>{
@@ -53,7 +52,7 @@ public class CustomAdapter extends ArrayAdapter<ModelMahasiswa>{
         }
 
         ModelMahasiswa mahasiswa = listMahasiswa.get(position);
-        holder.fotoMhs.setImageResource(mahasiswa.getImg());
+        holder.fotoMhs.setImageResource(mahasiswa.getmImg());
         holder.namaMhs.setText(mahasiswa.getNama());
         holder.nimMhs.setText(mahasiswa.getNim());
 
