@@ -7,17 +7,10 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".CustomListViewActivity">
 
-    <Button
-        android:id="@+id/btnA"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:text="LIST MAHASISWA TI A" />
-
-    <Button
-        android:id="@+id/btnB"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:text="LIST MAHASISWA TI B" />
+    <ListView
+        android:id="@+id/customLV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </LinearLayout>
