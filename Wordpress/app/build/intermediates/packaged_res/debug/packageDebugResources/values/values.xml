@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Moto Review</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="loading">Loading...</string>
+    <string name="no_internet">No internet connection</string>
+    <style name="Base.Theme.Wordpress" parent="Theme.Material3.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Wordpress" parent="Base.Theme.Wordpress"/>
+</resources>

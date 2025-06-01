@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+drawable placeholder_image
+id collapsingToolbar
+id imageView
+id ivHeaderImage
+id ivThumbnail
+id logoImage
+id lvPosts
+id main
+id tvAuthor
+id tvContent
+id tvDate
+id tvExcerpt
+id tvTitle
+layout activity_main
+layout activity_post_detail
+layout activity_splash
+layout single_post
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string error_loading
+string loading
+string no_internet
+style Base.Theme.Wordpress
+style Theme.Wordpress
+xml backup_rules
+xml data_extraction_rules

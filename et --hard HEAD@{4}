@@ -1,0 +1,20 @@
+[33mf4d9246[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m23372e7[m HEAD@{1}: reset: moving to HEAD~2
+[33mbb48756[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{2}: merge origin/main: Merge made by the 'ort' strategy.
+[33m27b2ba0[m HEAD@{3}: commit: add Wordpress
+[33m23372e7[m HEAD@{4}: commit: add Wordpress
+[33mf4d9246[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: commit: add CoordinatorLayout
+[33m99b57cc[m HEAD@{6}: commit: add GridView project
+[33mf01d496[m HEAD@{7}: commit: add GridView project
+[33m9a0777e[m HEAD@{8}: merge origin/main: Merge made by the 'ort' strategy.
+[33md5ff68b[m HEAD@{9}: commit: ModulEmpat final
+[33me32201f[m HEAD@{10}: merge origin/main: Merge made by the 'ort' strategy.
+[33m155fb36[m HEAD@{11}: commit: add ModulEmpat
+[33mdeb87f7[m HEAD@{12}: commit: fix activities error
+[33me7ed915[m HEAD@{13}: merge origin/main: Merge made by the 'ort' strategy.
+[33mb8c52f3[m HEAD@{14}: commit: second
+[33m45977e7[m HEAD@{15}: commit: second
+[33me921950[m HEAD@{16}: commit: BasicLayout edit
+[33m6881901[m HEAD@{17}: commit: Second
+[33m480da1a[m HEAD@{18}: Branch: renamed refs/heads/master to refs/heads/main
+[33m480da1a[m HEAD@{20}: commit (initial): First Commit
